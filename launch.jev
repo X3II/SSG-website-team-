@@ -64,4 +64,11 @@
     ]
 }
          "CTRL": "vertical change 17.98%,Horizantal change 1.08543%"\
+			[	
+		]
+		{
+"left" overhang-render distants set:4353.098% enters the threshold needed to veiw objects 78-92
+		{
+				"action": "opne" -- "close" OBJ: garrage foodtruck door>>{true}
+
 
