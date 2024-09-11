@@ -26,7 +26,7 @@
             "serverReadyAction": {
                 "action": "openExternally",
                 "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
-                "uriFormat": "%s/swagger"
+                "uriFormat": "%/s>SWAGGER-87"
             },
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
@@ -63,3 +63,5 @@
         }
     ]
 }
+         "CTRL": "vertical change 17.98%,Horizantal change 1.08543%"\
+
